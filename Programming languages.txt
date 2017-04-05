@@ -1,0 +1,45 @@
+ 1)Assembly proqramlaşdırma dili istifadə olunan kompyuter sisteminə bağlı olan bir dildir.
+Bu proqramlaşdırma dili kompyuterlər üçün aşağı səviyyəli bir proqramlaşdırma dili olub başa düşülməsi bir qədər daha çətindir.
+Kompyuterdə istifadə olunan bütün proqramlar əvvəlcə əməli yaddaş olan RAM-a yüklənir.Daha sonra əməli yaddaşdan ardıcıllıqla prosessor tərəfindən oxunaraq çalışdırılır.
+RAM-a yüklənən məlumat proqramın sadəcə maşın dilindən ibarət olur(0 və 1-lərdən).
+Maşın dilində proqram yazmaq çox çətindir buna görədə maşın dili ilə əlaqəsi olan qısaldılmış kəlimələrdən yaranan Assembly proqramlaşdırma dilindən istifadə olunur.
+Bu proqramlaşdırma dilində proqram yazmaq maşın dilində proqram yazmaqdan daha tez ve daha asand olur.
+Başqa yüksək səviyyəli proqramlaşdırma dilləri ilə müqayisədə Assembly dilində yazılan proqramlar daha süretlidir və əməli yaddaşda daha az yer tutur.
+
+Assembly proqramlaşdırma dilinin avantajları:  
+
+ 1.Kompyuterdə kontrolu daha yaxşı bir şəkildə temin edir.
+ 2.Kicik ölçülü və daha az yer tutan proqramlar yazıla bilər.
+ 3.Virusların yazılmasında istifadə olunur.
+ 4.Yazılan proqramlar daha tez işliyir.
+ 5.Hansısa proqramlaşdırma dilində istifadə olunan kodlar arasında işlənə bilər.
+ 6.Yaxşı örgənildikdə digər proqramlarda qarşılaşdığımız çətinlikləri Assembly ilə daha asand həll etə bilərik.
+
+Bu proqramın zeif yanları:
+ 
+ 1.Assembly dilində proqram yazmaq üçün prossessorun daxilinin tezliyinin bilinməsi lazim gəlir.
+ 2.Assembly proqramlaşdırma dili prosessorun növünə görə dəyişir.
+ 3.Bir prosessor üçün yazılan proqram digər prosessorda işləmiyə bilər.
+ 4.Bu proqramlaşdırma dilində proqram yazmaq yüksək səviyyəli proqramlaşdırma dillərinə görə daha çətin və vaxt aparandır.
+
+
+ 2)C proqramlaşdırma dili yüksək səviyyəli bir proqramlaşdırma dili olaraq  Dennis Ritchie və Brian Kernighan tərəfindən Bell Labs-da 1972-ci ildə təkmilləşdirilmişdi.
+Bu proqramlaşdırma dili adı tanınmayan B proqramlaşdırma dilindən istifadə olunaraq yaradılmışdı.
+C proqramlaşdırma dili tez-tez Firmware və digər daşına bilən tətbiqlərin təkmilləşdirilməsi üçün istifadə olunur.
+Unix sistemi məhz C proqramlaşdırma dilindən istifadə edilməklə təkmilləşdirilmişdi
+Bu proqramlaşdırma dilinin də örgənilməsi digər proqramlaşdırma dilləri kimi vaxt alır.
+Komyuter programlarinin yazılması üçün bir çox proqramlaşdırma dilləri olsada C proqramlaşdırma dili dünya miqyasında məşhur olan bir proqramlaşdırma dilidir.
+
+C proqramlaşdırma dilinin avantajları:
+
+ 1.C proqramlaşdırma dilini örgənmək daha asantdır çünki bu dildə sadə ingilis dili əmrlərindən istifadə olunur.
+ 2.Bu proqramlaşdırma dili dünya miqyasında qebul edilib. 
+ 3.Elmi və texniki mövzulardakı yüksək səviyyəli proqramlardan işlətmə sistemlərinə qədər çox sayda tətbiqetmələr bu proqramlaşdırma dili vasitəsilə yaradılır.
+ 4.C proqramlaşdırma dilinin digər üstünlüklərindən biri də inkişaf etmiş bir çox proqramlaşdırma dillərinin esasını yaratmış olmasıdır.
+ 
+3)APN(Access Point Name) kelmesinin baş herflerinden yaranır mənası bağlantı nöktesi adı mənasını verir
+Bağlantı nöktəsi isə bizim kabelli və ya kabelsiz bağlandığımız,internetə çıxış etdiyimiz nöktədir.
+APN GPRS şəbəkəsi üzərində terminalların çatdırdıqları paketləri müxtəlif İP adreslərinə yönləndirmə məlumatlarını təmin edən ünvandır.
+WAP və MMS servisləri fərqli APN-lərlə İşləməkdədir.
+Bundan əlavə APN düzgün İP adresin tapılmasında istifadə olunur.
+ 
